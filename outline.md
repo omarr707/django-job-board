@@ -4,7 +4,7 @@ Jop :
     - jop type
     - description
     - published at
-    - Vavanvy
+    - vacancv
     - salary
     - category
     - experience
